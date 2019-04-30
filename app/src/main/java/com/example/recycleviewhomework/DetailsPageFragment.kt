@@ -1,13 +1,11 @@
 package com.example.recycleviewhomework
 
-
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment_details_page.*
-
 
 class DetailsPageFragment : Fragment() {
     override fun onCreateView(
